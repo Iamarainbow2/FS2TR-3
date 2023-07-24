@@ -256,3 +256,17 @@
     justify-content: center;
     align-items: center;
 }
+
+@media screen { max-width: 650px; min-width: 300px;
+
+    .b65{
+        background-color: black;}
+
+    }
+
+    .b65:hover{
+
+        animation: triangle 3s infinite;
+
+      
+}
